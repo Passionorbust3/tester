@@ -2,5 +2,8 @@
   "custom-list": [
     {}
   ],
-  "custom-field": "Hello"
+  "custom-field": "Hello",
+  "custom-object": {
+    "custom-line": "This is a test"
+  }
 }
