@@ -1,5 +1,6 @@
 {
   "custom-list": [
     {}
-  ]
+  ],
+  "custom-field": "Hello"
 }
